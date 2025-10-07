@@ -3162,7 +3162,6 @@
   <block id="2d0fcfb8d7bf7c097d1eab05f1ec38bf" category="list-text">Clique em *Select Directory*.</block>
   <block id="357a35aedd0c37deb3a881df778a9bb4" category="list-text">Clique em *Restaurar*.</block>
   <block id="36efab4c4632b349e0eb0c435971dc16" category="paragraph">O processo de restauração é iniciado.</block>
-  <block id="747c77249313eab0521246ecfbad977b" category="paragraph">Se uma operação de restauração falhar entre clusters de HA do Cloud Volumes ONTAP com um erro NDMP, talvez seja necessário adicionar uma rota explícita da AWS no cluster de destino para que o destino possa se comunicar com o LIF de gerenciamento de cluster do sistema de origem. Execute esta etapa de configuração usando o BlueXP .</block>
   <block id="0ffea4d1a2392900f6fba1c51566cdd4" category="summary">Você pode restaurar arquivos, diretórios ou um volume inteiro sobrescritos ou excluídos de uma cópia Snapshot usando o recurso de restauração na exibição integridade: Todos os volumes.</block>
   <block id="036725172e9a54f3efed0216988d3a33" category="doc">Restaurar dados usando a exibição Saúde: Todos os volumes</block>
   <block id="6eda9f37882fb76510c9f52b6a13b959" category="list-text">Na exibição *Saúde: Todos os volumes*, selecione um volume do qual você deseja restaurar os dados.</block>
@@ -11545,4 +11544,5 @@
   <block id="9304b0fee761c30cb0f91f15de511efc" category="sidebar">Criar um relatório para visualizar agregados que estão quase cheios</block>
   <block id="13ea07d85e49bbdae7a2c0414691f416" category="sidebar">Monitorar e gerenciar o storage</block>
   <block id="2d00b9d7d66bb4524df569339f8a571c" category="sidebar">Corrigir ou gerenciar problemas do ONTAP diretamente do Unified Manager</block>
+  <block id="1daba90506b1f94ee6106dc86aa53476" category="paragraph">Se uma operação de restauração falhar entre clusters do Cloud Volumes ONTAP HA com um erro NDMP, talvez seja necessário adicionar uma rota AWS explícita no cluster de destino para que o destino possa se comunicar com o LIF de gerenciamento de cluster do sistema de origem. Execute esta etapa de configuração usando o NetApp Console.</block>
 </blocks>
