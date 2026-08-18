@@ -15,6 +15,7 @@ Os eventos de conectividade fornecem informações sobre a conectividade entre o
 
 
 
+[[impact-area-availability]]
 == Área de impactos: Disponibilidade
 
 |===

@@ -15,6 +15,7 @@ Os eventos Ponte MetroCluster fornecem informações sobre o status das pontes p
 
 
 
+[[impact-area-availability]]
 == Área de impactos: Disponibilidade
 
 |===

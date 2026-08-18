@@ -15,6 +15,7 @@ Os eventos do switch MetroCluster fornecem informações sobre o status dos swit
 
 
 
+[[impact-area-availability]]
 == Área de impactos: Disponibilidade
 
 |===

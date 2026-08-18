@@ -27,6 +27,7 @@ Você pode passar o Mouse sobre cada um dos gráficos de barras para ver as resp
 
 
 
+[[data-protection-page]]
 == Página proteção de dados
 
 A página proteção de dados exibe os seguintes painéis para volumes protegidos para todos os clusters.

@@ -50,7 +50,7 @@ Em uma máquina virtual, aumente o tamanho de uma partição de disco.
  a| 
 Siga as etapas no tópico VMware:
 
-https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1004071["Aumentando o tamanho de uma partição de disco"]
+https://knowledge.broadcom.com/external/article/323136/increasing-the-size-of-a-virtual-disk-pa.html["Aumentando o tamanho de uma partição de disco"^]
 
 |===
 

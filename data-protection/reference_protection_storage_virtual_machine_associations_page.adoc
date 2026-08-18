@@ -15,6 +15,7 @@ A página colegas do SVM permite visualizar os pares de VM de storage existentes
 
 
 
+[[command-buttons]]
 == Botões de comando
 
 Os botões de comando permitem executar as seguintes tarefas:
@@ -31,6 +32,7 @@ Permite eliminar os pares de VM de armazenamento selecionados.
 
 
 
+[[storage-vm-peers-list]]
 == Lista de pares de VM de storage
 
 A lista SVM peers (peers) exibe em uma tabela as associações de VM de armazenamento de origem e destino que foram criadas e o tipo de relação de proteção permitido para cada associação.

@@ -10,6 +10,7 @@ summary: Guia de início rápido para Unified Manager na plataforma Linux.
 
 
 
+[[system-requirements]]
 == Requisitos do sistema
 
 * Sistema operacional: Red Hat Enterprise Linux e CentOS versão 7.x e 8.x baseados na arquitetura x86_64, instalados usando o ambiente base "servidor com GUI" da opção *seleção de Software* do instalador do SO
@@ -21,10 +22,12 @@ Para obter informações detalhadas sobre os requisitos do sistema e sobre a ins
 
 
 
+[[installing-active-iq-unified-manager]]
 == A instalar o Active IQ Unified Manager
 
 
 
+[[download-the-installer]]
 === Baixe o instalador
 
 . Baixe o `ActiveIQUnifiedManager-<version>.zip` pacote de instalação.
@@ -36,6 +39,7 @@ Para obter informações detalhadas sobre os requisitos do sistema e sobre a ins
 
 
 
+[[verify-repository-configuration]]
 === Verifique a configuração do repositório
 
 Os procedimentos para configurar repositórios Red Hat Enterprise Linux ou CentOS são específicos do site. Você pode usar o `pre_install_check.sh` script incluído no pacote de instalação para verificar a configuração do seu sistema operacional. Se o sistema estiver conetado à Internet, você receberá automaticamente instruções para configurar os repositórios Red Hat Enterprise Linux ou CentOS.
@@ -44,6 +48,7 @@ Os procedimentos para configurar repositórios Red Hat Enterprise Linux ou CentO
 
 
 
+[[install-unified-manager]]
 === Instale o Unified Manager
 
 O Unified Manager usa `yum` o utilitário para instalar o software e qualquer software dependente. Como existem várias imagens do Red Hat Enterprise Linux ou CentOS, os pacotes instalados dependem do software presente nas imagens. O `yum` utilitário determina os pacotes de software dependentes para instalação. Se precisar de mais informações sobre os pacotes de software dependentes, consulte o link:../install-linux/reference_red_hat_and_centos_software_and_installation_requirements.html["Requisitos de software e instalação do Linux"].

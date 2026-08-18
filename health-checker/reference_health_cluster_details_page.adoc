@@ -17,6 +17,7 @@ O status ao lado do nome do cluster, por exemplo (bom), representa o status da c
 
 
 
+[[command-buttons]]
 == Botões de comando
 
 Os botões de comando permitem executar as seguintes tarefas para o cluster selecionado:
@@ -46,6 +47,7 @@ Permite navegar para a visualização Saúde: Todos os clusters.
 
 
 
+[[health-tab]]
 == Separador Saúde
 
 Exibe informações detalhadas sobre problemas de disponibilidade de dados e capacidade de dados de vários objetos de cluster, como nós, SVMs e agregados. Os problemas de disponibilidade estão relacionados à funcionalidade de fornecimento de dados dos objetos do cluster. Os problemas de capacidade estão relacionados à capacidade de armazenamento de dados dos objetos do cluster.
@@ -70,6 +72,7 @@ Exibe graficamente o número total de objetos, incluindo objetos que têm proble
 
 
 
+[[capacity-tab]]
 == Separador capacidade
 
 Exibe informações detalhadas sobre a capacidade do cluster selecionado.
@@ -209,6 +212,7 @@ Exibe o número estimado de dias restantes antes que o agregado atinja a capacid
 
 
 
+[[configuration-tab]]
 == Separador Configuration (Configuração)
 
 Exibe detalhes sobre o cluster selecionado, como endereço IP, Contato e localização:
@@ -358,6 +362,7 @@ Lista os nomes dos níveis de nuvem aos quais esse cluster está conetado. Ele t
 
 
 
+[[metrocluster-connectivity-tab]]
 == Separador conetividade MetroCluster
 
 Exibe os problemas e o status de conetividade dos componentes do cluster na configuração do MetroCluster. Um cluster é exibido em uma caixa vermelha quando o parceiro de recuperação de desastres do cluster tiver problemas.
@@ -382,6 +387,7 @@ Se o status do problema de conetividade entre componentes for determinado por v�
 
 
 
+[[metrocluster-replication-tab]]
 == Guia replicação do MetroCluster
 
 Exibe o status dos dados que estão sendo replicados. Você pode usar a guia replicação do MetroCluster para garantir a proteção de dados espelhando os dados de maneira síncrona com os clusters já direcionados. Um cluster é exibido em uma caixa vermelha quando o parceiro de recuperação de desastres do cluster tiver problemas.
@@ -397,6 +403,7 @@ Na guia replicação do MetroCluster , o cluster local fornece a representação
 
 
 
+[[network-interfaces-tab]]
 == Separador interfaces de rede
 
 Exibe detalhes sobre todas as LIFs que não são de dados criados no cluster selecionado.
@@ -448,6 +455,7 @@ Exibe o nome do grupo de failover.
 
 
 
+[[nodes-tab]]
 == Guia nós
 
 Exibe informações sobre nós no cluster selecionado. Você pode visualizar informações detalhadas sobre pares de HA, compartimentos de disco e portas:
@@ -578,6 +586,7 @@ Pode visualizar os eventos relacionados com portas a partir da lista Eventos. Vo
 
 
 
+[[disks-tab]]
 == Separador Disks (discos)
 
 Exibe detalhes sobre os discos no cluster selecionado. Você pode exibir informações relacionadas ao disco, como o número de discos usados, discos sobressalentes, discos quebrados e discos não atribuídos. Você também pode exibir outros detalhes, como o nome do disco, o tipo de disco e o nó proprietário do disco.
@@ -681,12 +690,14 @@ Exibe a ID do compartimento onde o disco está localizado.
 
 
 
+[[related-annotations-pane]]
 == Painel Anotações relacionadas
 
 Permite visualizar os detalhes da anotação associados ao cluster selecionado. Os detalhes incluem o nome da anotação e os valores da anotação que são aplicados ao cluster. Também pode remover anotações manuais do painel Anotações relacionadas.
 
 
 
+[[related-devices-pane]]
 == Painel dispositivos relacionados
 
 Permite visualizar detalhes do dispositivo associados ao cluster selecionado.
@@ -717,12 +728,14 @@ Exibe o número, a capacidade e o status de integridade dos agregados que perten
 
 
 
+[[related-groups-pane]]
 == Painel grupos relacionados
 
 Permite visualizar a lista de grupos que inclui o cluster selecionado.
 
 
 
+[[related-alerts-pane]]
 == Painel Alertas relacionados
 
 O painel Alertas relacionados permite visualizar a lista de alertas para o cluster selecionado. Você também pode adicionar um alerta clicando no link Adicionar alerta ou editar um alerta existente clicando no nome do alerta.

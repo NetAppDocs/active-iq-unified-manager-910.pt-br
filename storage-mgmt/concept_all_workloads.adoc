@@ -30,12 +30,14 @@ Usando a opção *cargas de trabalho* > *todas as cargas de trabalho*, você pod
 
 
 
+[[adding-or-provisioning-storage-workloads]]
 == Adição ou provisionamento de workloads de storage
 
 Você pode adicionar ou provisionar os workloads de storage a LUNs compatíveis (compatíveis com protocolos iSCSI e FCP), compartilhamentos de arquivos NFS e compartilhamentos de SMB.
 
 
 
+[[viewing-and-filtering-workloads]]
 == Visualização e filtragem de workloads
 
 Na tela todos os workloads, você pode visualizar todos os workloads no data center ou pesquisar workloads de storage específicos com base nas PSLs ou nos nomes deles. Pode utilizar o ícone de filtro para introduzir condições específicas para a sua pesquisa. Você pode pesquisar por diferentes condições de filtro, como pelo cluster de host ou VM de armazenamento. A opção *Capacity Total* permite a filtragem pela capacidade total das cargas de trabalho (por MB). No entanto, nesse caso, o número de cargas de trabalho retornadas pode variar, porque a capacidade total é comparada em um nível de byte.
@@ -46,6 +48,7 @@ A página também permite visualizar os detalhes de performance de um workload. 
 
 
 
+[[analyzing-performance-and-capacity-criteria-for-a-workload]]
 == Análise de critérios de performance e capacidade de um workload
 
 Você pode exibir informações de desempenho sobre uma carga de trabalho para ajudar na solução de problemas clicando no ícone do gráfico de barras na coluna *Exibição de desempenho*. Para visualizar gráficos de desempenho e capacidade na página análise de workload para analisar o objeto, clique no botão *Analyze Workload*.

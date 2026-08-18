@@ -15,6 +15,7 @@ As portas e protocolos necessários permitem a comunicação entre o servidor do
 
 
 
+[[connections-to-the-unified-manager-server]]
 == Conexões ao servidor do Unified Manager
 
 Em instalações típicas, você não precisa especificar números de porta ao se conetar à IU da Web do Unified Manager, porque as portas padrão são sempre usadas. Por exemplo, como o Unified Manager sempre tenta executar em sua porta padrão, você pode digitar `+https://<host>+` em vez `+https://<host>:443+` de .
@@ -101,6 +102,7 @@ As portas usadas para comunicação HTTP e HTTPS (portas 80 e 443) podem ser alt
 ====
 
 
+[[connections-from-the-unified-manager-server]]
 == Conexões do servidor do Unified Manager
 
 Você deve configurar seu firewall para abrir portas que habilitem a comunicação entre o servidor do Unified Manager e sistemas de armazenamento gerenciados, servidores e outros componentes. Se uma porta não estiver aberta, a comunicação falhará.

@@ -180,6 +180,7 @@ Wombat: Extrato nº 3
 
 
 
+[[troubleshooting-steps-for-failure-in-lun-creation-or-mapping]]
 == Etapas de solução de problemas para falha na criação ou mapeamento de LUN
 
 Ao concluir esse fluxo de trabalho, você ainda poderá ver uma falha na criação de LUN. Mesmo que o LUN seja criado com sucesso, o mapeamento LUN com o igroup pode falhar devido à indisponibilidade de um LIF SAN ou ponto de extremidade de acesso no nó em que você cria o LUN. Em caso de falha, você pode ver a seguinte mensagem:

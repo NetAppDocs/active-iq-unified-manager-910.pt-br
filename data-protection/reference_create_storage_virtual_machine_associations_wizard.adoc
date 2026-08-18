@@ -15,6 +15,7 @@ O assistente criar pares de máquinas virtuais de storage permite que você faç
 
 
 
+[[select-source]]
 == Selecione fonte
 
 O painel Selecionar origem permite selecionar a fonte, ou a principal, VM de armazenamento no ponto de armazenamento da VM.
@@ -61,12 +62,14 @@ Especifica um relacionamento SnapVault como o tipo de peer. Selecionar esta opç
 
 
 
+[[select-protection-destinations]]
 == Selecione Destinos de proteção
 
 O painel Select Protection Destinations (Selecionar destinos de proteção) do assistente Create Storage Virtual Machine Peers (criar pares de máquinas virtuais de armazenamento) permite-lhe selecionar onde copiar ou replicar os dados. Você pode criar um peer em apenas uma VM de armazenamento de destino por cluster.
 
 
 
+[[command-buttons]]
 == Botões de comando
 
 Os botões de comando permitem executar as seguintes tarefas:

@@ -17,6 +17,7 @@ Se não tiver gerado um novo certificado HTTPS, o certificado que aparece nesta 
 
 
 
+[[command-buttons]]
 == Botões de comando
 
 Os botões de comando permitem executar as seguintes operações:
